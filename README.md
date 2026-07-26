@@ -2,7 +2,6 @@
 
 [![Proskio](https://img.shields.io/badge/Proskio-Profile-6d5bff?style=flat-square)](https://proskio.com/profile/ahmed2fathy/)
 
-
 [![Current Streak](https://img.shields.io/badge/Current%20Streak-0%20days-f97316?style=flat-square)](https://proskio.com/profile/ahmed2fathy/)
 
 
@@ -13,3 +12,10 @@
 
 
 [![Commits](https://img.shields.io/badge/Commits-71-4338ca?style=flat-square)](https://proskio.com/profile/ahmed2fathy/)
+
+
+
+[![Top Language](https://img.shields.io/badge/Top%20Language-N%2FA-764ba2?style=flat-square)](https://proskio.com/profile/ahmed2fathy/)
+
+
+[![Stars](https://img.shields.io/badge/Stars-1-facc15?style=flat-square)](https://proskio.com/profile/ahmed2fathy/)
